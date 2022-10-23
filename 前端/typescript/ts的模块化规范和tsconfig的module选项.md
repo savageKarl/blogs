@@ -6,7 +6,7 @@
 
 ESM的规范
 
-```typesc
+```typescript
 import {xxxx,xxxx} from 'xxxxx'
 import xxxx from 'xxxx'
 import * as xxx from 'xxxx'
