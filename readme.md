@@ -18,6 +18,10 @@
 - [什么是 BEM ](https://github.com/savage181855/blogs/blob/master/%E5%89%8D%E7%AB%AF/css/BEM.md)
 
 
+### Babel7
+
+[babel的使用](https://github.com/savage181855/blogs/blob/master/%E5%89%8D%E7%AB%AF/babel7/%E4%B8%80%E3%80%81%E5%9F%BA%E6%9C%AC%E8%AF%B4%E6%98%8E.md)
+
 ### Eslint
 
 - [对eslint的认识](https://github.com/savage181855/blogs/blob/master/%E5%89%8D%E7%AB%AF/eslint/%E4%B8%80%EF%BC%8C%E5%9F%BA%E6%9C%AC%E4%BA%86%E8%A7%A3.md)
@@ -25,4 +29,8 @@
 
 ### Webpack5
 
--[搭建Vue3+TS+SCSS脚手架](https://github.com/savage181855/blogs/blob/master/%E5%89%8D%E7%AB%AF/webpack5/%E6%90%AD%E5%BB%BAVue3%2BTS%2BSCSS%E8%84%9A%E6%89%8B%E6%9E%B6.md)
+- [搭建Vue3+TS+SCSS脚手架](https://github.com/savage181855/blogs/blob/master/%E5%89%8D%E7%AB%AF/webpack5/%E6%90%AD%E5%BB%BAVue3%2BTS%2BSCSS%E8%84%9A%E6%89%8B%E6%9E%B6.md)
+
+### vite
+
+- [vite创建vue项目](https://github.com/savage181855/blogs/blob/master/%E5%89%8D%E7%AB%AF/vue/vite%E5%88%9B%E5%BB%BAvue%E9%A1%B9%E7%9B%AE.md)
