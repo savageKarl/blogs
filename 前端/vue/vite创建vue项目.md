@@ -1,5 +1,3 @@
-> 写作时间 2022-01-08 23:04:21
-
 # vite创建vue项目
 
 使用 vite 创建 vue + typescript 项目，集成 vue-router、vuex 和 sass 预处理器 。
@@ -190,3 +188,5 @@ div {
 ```
 
 ![Img](./images/9ac3288e.png)
+
+> 写作时间 2022-01-08 23:04:21

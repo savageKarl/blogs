@@ -416,6 +416,6 @@ const msg = ref('Hello world!');
 
 ## 遇到问题
 
-在配置element-plus组件的时候，vscode提示没有只能提示，使用组件也报错。重装组件，删除node_modules都没用。
+在配置element-plus组件的时候，vscode提示没有智能提示，使用组件也报错。重装node_modules也无效。
 
 最后发现是element-plus 2.2.3版本，竟然没有声明文件。
